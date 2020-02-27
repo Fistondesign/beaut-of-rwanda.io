@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/beaut-of-rwanda.io/precache-manifest.7715d4594e251f6d7b6d7056f0b65922.js"
+  "/beaut-of-rwanda.io/precache-manifest.231d85689b4c72f7372c8168e8fb5315.js"
 );
 
 self.addEventListener('message', (event) => {
