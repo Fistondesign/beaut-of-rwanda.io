@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/beaut-of-rwanda.io/static/css/main.ce800516.chunk.css",
-    "main.js": "/beaut-of-rwanda.io/static/js/main.020cc86a.chunk.js",
-    "main.js.map": "/beaut-of-rwanda.io/static/js/main.020cc86a.chunk.js.map",
+    "main.css": "/beaut-of-rwanda.io/static/css/main.5a1b9f0f.chunk.css",
+    "main.js": "/beaut-of-rwanda.io/static/js/main.56451f67.chunk.js",
+    "main.js.map": "/beaut-of-rwanda.io/static/js/main.56451f67.chunk.js.map",
     "runtime-main.js": "/beaut-of-rwanda.io/static/js/runtime-main.a76d279e.js",
     "runtime-main.js.map": "/beaut-of-rwanda.io/static/js/runtime-main.a76d279e.js.map",
     "static/js/2.eae5201e.chunk.js": "/beaut-of-rwanda.io/static/js/2.eae5201e.chunk.js",
     "static/js/2.eae5201e.chunk.js.map": "/beaut-of-rwanda.io/static/js/2.eae5201e.chunk.js.map",
     "index.html": "/beaut-of-rwanda.io/index.html",
-    "precache-manifest.84d405538664a8abc2aea396088decae.js": "/beaut-of-rwanda.io/precache-manifest.84d405538664a8abc2aea396088decae.js",
+    "precache-manifest.6ff9410dea29a4c0c1fbd30a609cdad4.js": "/beaut-of-rwanda.io/precache-manifest.6ff9410dea29a4c0c1fbd30a609cdad4.js",
     "service-worker.js": "/beaut-of-rwanda.io/service-worker.js",
-    "static/css/main.ce800516.chunk.css.map": "/beaut-of-rwanda.io/static/css/main.ce800516.chunk.css.map",
+    "static/css/main.5a1b9f0f.chunk.css.map": "/beaut-of-rwanda.io/static/css/main.5a1b9f0f.chunk.css.map",
     "static/js/2.eae5201e.chunk.js.LICENSE.txt": "/beaut-of-rwanda.io/static/js/2.eae5201e.chunk.js.LICENSE.txt",
     "static/media/akagera.jpg": "/beaut-of-rwanda.io/static/media/akagera.720ec05c.jpg",
     "static/media/baa.jpg": "/beaut-of-rwanda.io/static/media/baa.df529a56.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.a76d279e.js",
     "static/js/2.eae5201e.chunk.js",
-    "static/css/main.ce800516.chunk.css",
-    "static/js/main.020cc86a.chunk.js"
+    "static/css/main.5a1b9f0f.chunk.css",
+    "static/js/main.56451f67.chunk.js"
   ]
 }
