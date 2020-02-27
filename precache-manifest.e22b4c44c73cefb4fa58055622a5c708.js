@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f5c746760deeff9d88d5960fd3207fe",
+    "revision": "0c78f4645a049b72bba3b8debce6f992",
     "url": "/beaut-of-rwanda.io/index.html"
   },
   {
-    "revision": "ce4ebbcdd653cca1a1e5",
-    "url": "/beaut-of-rwanda.io/static/css/main.5a1b9f0f.chunk.css"
+    "revision": "486ded479ad699bf19c9",
+    "url": "/beaut-of-rwanda.io/static/css/main.c12d046a.chunk.css"
   },
   {
-    "revision": "9df95145f6079eb451c7",
-    "url": "/beaut-of-rwanda.io/static/js/2.eae5201e.chunk.js"
+    "revision": "16fe17473b303a3b1a84",
+    "url": "/beaut-of-rwanda.io/static/js/2.bc45a4c5.chunk.js"
   },
   {
     "revision": "bf23039b4e70a07c5aeb1b4010df3572",
-    "url": "/beaut-of-rwanda.io/static/js/2.eae5201e.chunk.js.LICENSE.txt"
+    "url": "/beaut-of-rwanda.io/static/js/2.bc45a4c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce4ebbcdd653cca1a1e5",
-    "url": "/beaut-of-rwanda.io/static/js/main.56451f67.chunk.js"
+    "revision": "486ded479ad699bf19c9",
+    "url": "/beaut-of-rwanda.io/static/js/main.e559e6f4.chunk.js"
   },
   {
     "revision": "3361db846899551a866f",
