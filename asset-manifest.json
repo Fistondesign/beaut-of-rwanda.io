@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/myhero.io/static/css/main.ca0c0de6.chunk.css",
+    "main.js": "/myhero.io/static/js/main.4ee0747a.chunk.js",
+    "main.js.map": "/myhero.io/static/js/main.4ee0747a.chunk.js.map",
+    "runtime-main.js": "/myhero.io/static/js/runtime-main.4b439dad.js",
+    "runtime-main.js.map": "/myhero.io/static/js/runtime-main.4b439dad.js.map",
+    "static/js/2.eae5201e.chunk.js": "/myhero.io/static/js/2.eae5201e.chunk.js",
+    "static/js/2.eae5201e.chunk.js.map": "/myhero.io/static/js/2.eae5201e.chunk.js.map",
+    "index.html": "/myhero.io/index.html",
+    "precache-manifest.bd59dddfc274e0a33706cbfde2b532f8.js": "/myhero.io/precache-manifest.bd59dddfc274e0a33706cbfde2b532f8.js",
+    "service-worker.js": "/myhero.io/service-worker.js",
+    "static/css/main.ca0c0de6.chunk.css.map": "/myhero.io/static/css/main.ca0c0de6.chunk.css.map",
+    "static/js/2.eae5201e.chunk.js.LICENSE.txt": "/myhero.io/static/js/2.eae5201e.chunk.js.LICENSE.txt",
+    "static/media/akagera.jpg": "/myhero.io/static/media/akagera.720ec05c.jpg",
+    "static/media/baa.jpg": "/myhero.io/static/media/baa.df529a56.jpg",
+    "static/media/burera.jpg": "/myhero.io/static/media/burera.a606efb4.jpg",
+    "static/media/car.png": "/myhero.io/static/media/car.9c4c4db1.png",
+    "static/media/classic.jpg": "/myhero.io/static/media/classic.c68f2db8.jpg",
+    "static/media/drivers.jpg": "/myhero.io/static/media/drivers.e068bbac.jpg",
+    "static/media/imparage.jpg": "/myhero.io/static/media/imparage.1111b577.jpg",
+    "static/media/karisimbi.jpg": "/myhero.io/static/media/karisimbi.e5bd781a.jpg",
+    "static/media/lakekivu.jpg": "/myhero.io/static/media/lakekivu.704857a0.jpg",
+    "static/media/musanze.jpg": "/myhero.io/static/media/musanze.cfe71314.jpg",
+    "static/media/people.png": "/myhero.io/static/media/people.36f9664f.png",
+    "static/media/rwanda.jpg": "/myhero.io/static/media/rwanda.3e7193dc.jpg",
+    "static/media/traveldetail.css": "/myhero.io/static/media/travelbg.8284bc7e.png",
+    "static/media/water.jpg": "/myhero.io/static/media/water.08af9bb7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b439dad.js",
+    "static/js/2.eae5201e.chunk.js",
+    "static/css/main.ca0c0de6.chunk.css",
+    "static/js/main.4ee0747a.chunk.js"
+  ]
+}
